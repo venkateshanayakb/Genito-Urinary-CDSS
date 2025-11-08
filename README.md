@@ -1,3 +1,13 @@
+# 🩺 Genito-Urinary Clinical Decision Support System (CDSS)
+
+![AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-Project-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Language](https://img.shields.io/badge/Language-TypeScript-blue)
+
+> A logic-based AI-powered clinical decision support system for Genito-Urinary (GU) infections, 
+> built using Google AI Studio and the IKP-BTP diagnostic framework.
+
 # Genito-Urinary Clinical Decision Support System (CDSS)
 
 ## 🩺 Project Overview
